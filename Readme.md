@@ -1,3 +1,5 @@
+I learned this project from Abhishek Veeramalla and Kunal verma in their live Project class
+
 # Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
